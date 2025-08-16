@@ -1,2 +1,1 @@
-Hi,
-This is a new feature added to the branch
+Hi, This is a new feature added to the branch
